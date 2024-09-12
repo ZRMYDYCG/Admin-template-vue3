@@ -4,9 +4,4 @@
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" }
   ],
-  //配置 @
-  "baseUrl": ".",
-  "paths": {
-    "@/*": ["src/*"]
-  }
 }

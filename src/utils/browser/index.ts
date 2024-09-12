@@ -1,5 +1,9 @@
-/**
- * 此文件下主要是针对浏览器上各种操作的工具函数
+/*
+ * @Author: ZRMYDYCG
+ * @Date: 2024-09
+ * @LastEditors: ZRMYDYCG
+ * @LastEditTime: 2024-09
+ * @Description: 针对浏览器上各种操作的工具函数
  */
 
 /**
